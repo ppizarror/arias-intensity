@@ -5,7 +5,7 @@ data/
 *.asv
 
 # Related documents
-pasten_cp.pdf
+*.pdf
 
 # Other matlab files
 test.m
