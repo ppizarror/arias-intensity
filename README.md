@@ -1,4 +1,7 @@
 # Arias Intensity
+[![@ppizarror](http://ppizarror.com/resources/images/author.svg)](http://ppizarror.com)
+[![Licencia GPL](http://ppizarror.com/resources/images/licensegpl2.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+
 Function in matlab to calculate AI (Arias Intensity) parameter from a seismic accelerogram.
 
 ## Usage
