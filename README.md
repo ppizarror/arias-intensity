@@ -44,5 +44,5 @@ ai = arias_intensity(t, acc);
 This project is licensed under GPLv2 (GNU General Public License, version 2) [https://www.gnu.org/licenses/gpl-2.0.html].
 
 ## Author
-Author: <a href="http://ppizarror.com">Pablo Pizarro R.</a>, 2017.<br>
+<a href="http://ppizarror.com">Pablo Pizarro R.</a> | 2017.<br>
 Acknowledgments to Felipe Ochoa.
