@@ -1,11 +1,13 @@
-# Arias Intensity
-[![@ppizarror](http://ppizarror.com/resources/images/author.svg)](http://ppizarror.com)
-[![Licencia GPL](http://ppizarror.com/resources/images/licensegpl2.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-
-Function in matlab to calculate AI (Arias Intensity) parameter from a seismic accelerogram.
+<h1 align="center">
+  <img alt="Arias Intensity" src="http://ppizarror.com/resources/other/matlab.png" width="200px" height="200px" />
+  <br /><br />
+  Arias Intensity</h1>
+<p align="center">Function in matlab to calculate AI (Arias Intensity) parameter from a seismic accelerogram</p>
+<div align="center"><a href="http://ppizarror.com"><img alt="@ppizarror" src="http://ppizarror.com/badges/author.svg" /></a>
+<a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"><img alt="GPL V2.0" src="http://ppizarror.com/badges/licensegpl2.svg" /></a>
+</div><br />
 
 ## Usage
-
 The arias intensity function is defined by:
 
 ```matlab
@@ -20,7 +22,6 @@ Where:
 | acc | Acceleration (g) of the seismic accelerogram |
 
 ## Example
-
 Lets suppose that a seismic registry is stored on *data/CNV_APED_201604162359_N_100.txt*, the file structure is like:
 
 ```
@@ -41,8 +42,7 @@ ai = arias_intensity(t, acc);
 ```
 
 ## License
-This project is licensed under GPLv2 (GNU General Public License, version 2) [https://www.gnu.org/licenses/gpl-2.0.html].
+This project is licensed under GPLv2 [https://www.gnu.org/licenses/gpl-2.0.html]
 
 ## Author
-<a href="http://ppizarror.com">Pablo Pizarro R.</a> | 2017.<br>
-Acknowledgments to Felipe Ochoa.
+<a href="http://ppizarror.com" title="ppizarror">Pablo Pizarro R.</a> | 2017
