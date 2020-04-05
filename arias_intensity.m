@@ -32,6 +32,4 @@ G = 9.80665;
 ai = trapz(t, acc.*acc);
 ai = ai * (pi / (2 * G));
 
-
 end
-
