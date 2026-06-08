@@ -1,10 +1,7 @@
-<h1 align="center">
-  <img alt="Arias Intensity" src="https://res.ppizarror.com/other/matlab.png" width="200px" height="200px" />
-  <br /><br />
-  Arias Intensity</h1>
+<h1 align="center">Arias Intensity</h1>
 <p align="center">Function in matlab to calculate AI (Arias Intensity) parameter from a seismic accelerogram</p>
-<div align="center"><a href="https://ppizarror.com"><img alt="@ppizarror" src="https://res.ppizarror.com/badges/author.svg" /></a>
-<a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"><img alt="GPL V2.0" src="https://res.ppizarror.com/badges/licensegpl2.svg" /></a>
+<div align="center"><a href="https://ppizarror.com"><img alt="@ppizarror" src="https://img.shields.io/badge/Author-Pablo%20Pizarro%20R.-9f9f9f" /></a>
+<a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"><img alt="GPL V2.0" src="https://img.shields.io/badge/License-GPL--2.0-007ec6" /></a>
 </div><br />
 
 ## Usage
